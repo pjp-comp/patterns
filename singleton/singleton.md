@@ -1,5 +1,3 @@
-Patterns for Generating Objects 
-
 	1. The Singleton pattern: A special class that generates one—and only one—object instance
 
 		The $instance property is private and static, so it cannot be accessed from outside the class. The getInstance() method has access, though. Because getInstance() is public and static, it can be called via the class from anywhere in a script:
@@ -13,8 +11,3 @@ Patterns for Generating Objects
 		Nevertheless, I think that moderate use of the  pattern can improve the design of a system, saving you from horrible contortions as you pass objects unnecessarily around your system.Singleton
 
 		Singletons represent an improvement over global variables in an object-oriented context. You cannot overwrite a Singleton with the wrong kind of data.
-
-
->> Structural Patterns (Object Composition)
-
-[Adapter Pattern](./adapter/adapter.md)

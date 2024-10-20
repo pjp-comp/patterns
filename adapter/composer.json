@@ -1,0 +1,14 @@
+{
+    "name": "pragneshpatel/adapter",
+    "autoload": {
+        "psr-4": {
+            "pattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pragnesh"
+        }
+    ],
+    "require": {}
+}
