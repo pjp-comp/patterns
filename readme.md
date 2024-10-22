@@ -5,3 +5,7 @@
 >> Structural Patterns (Object Composition)
 
 [Adapter Pattern](./adapter/adapter.md)
+
+>> Template Method (behavioral design pattern)
+
+[Template Method](./template_method/template_method.md)

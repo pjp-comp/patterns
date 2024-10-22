@@ -1,0 +1,14 @@
+{
+    "name": "pragneshpatel/template_method",
+    "autoload": {
+        "psr-4": {
+            "TemplateMethod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pragnesh"
+        }
+    ],
+    "require": {}
+}
