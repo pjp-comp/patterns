@@ -1,11 +1,12 @@
->> Patterns for Generating Objects 
+>> [Singleton Pattern](./singleton/adapter.md)
 
-[Singleton Pattern](./singleton/adapter.md)
+>> [Adapter Pattern](./adapter/adapter.md)
 
->> Structural Patterns (Object Composition)
+>> [Template Method](./template_method/template_method.md)
 
-[Adapter Pattern](./adapter/adapter.md)
 
->> Template Method (behavioral design pattern)
 
-[Template Method](./template_method/template_method.md)
+------------
+
+> [SOLID Principal with PHP](./solid/solid.md)
+
