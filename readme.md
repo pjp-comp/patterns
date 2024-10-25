@@ -8,5 +8,5 @@
 
 ------------
 
-> [SOLID Principal with PHP](./solid/solid.md)
+> [SOLID Principal with PHP](./solid/readme.md)
 
