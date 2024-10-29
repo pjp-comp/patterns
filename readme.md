@@ -54,5 +54,5 @@ Ultimately, we came up with the pattern we needed for our problem.
 
 ------------
 
-> [SOLID Principal with PHP](./solid/readme.md)
+> [SOLID Principle with PHP](./solid/readme.md)
 
